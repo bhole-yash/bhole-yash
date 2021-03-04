@@ -25,8 +25,6 @@ I'm Yash from India , I was awarded the geekiest nerd in college(and boy am I pr
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bhole-yash)  
 
-![GitHub metrics](https://metrics.lecoq.io/bhole-yash)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhole-yash)   ![Profile views](https://gpvc.arturio.dev/bhole-yash)  
+![GitHub metrics](https://metrics.lecoq.io/bhole-yash)  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhole-yash)   ![Profile views](https://gpvc.arturio.dev/bhole-yash)  
 
 
