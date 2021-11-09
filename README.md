@@ -7,11 +7,11 @@ I'm Yash from India , I was awarded the geekiest nerd in college(and boy am I pr
 
 ## Skills: Python/SQL/ JS / HTML / CSS/Django
 
-- 🔭 I’m currently working on Rest API 
-- 🌱 I’m currently learning SQL 
-- 👯 I’m looking to collaborate on Autonomous vehicles 
-- 🤔 I’m looking for help with Atmanirbhar 
-- ⚡ Fun fact: Music, Movies <3 
+- 🔭 I’m currently working on Rest API ,MERN & Django
+- 🌱 I’m currently learning Optimizations.
+- 👯 I’m looking to collaborate on anything that pushes me off the edge 
+- 🤔 I’m looking for help with DSA
+- ⚡ Fun Love: Music, Movies <3 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bhole-yash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yash-bhole-075889148//)  
 
