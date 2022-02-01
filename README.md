@@ -2,16 +2,18 @@
 ## aka fullstack & python developer
 ![aka fullstack & python developer](https://pbs.twimg.com/profile_banners/969557557680525312/1614800484/1080x360)
 
-I'm Yash from India , I was awarded the geekiest nerd in college(and boy am I proud of that....) , I have done little bit of work in fullstack Development(literally everything in bits in parts) , but I am really confident of my python skills (well u just dont stop exploring world's coolest language) . Now if I havent bored you till this WORD, please connect!
+I'm from India , I was awarded the geekiest nerd in college(and I proud of that....) , I have done little bit of work in fullstack Development(literally everything in bits in parts) , but I am really confident of my python skills (well u just dont stop exploring world's coolest language) . Now if I havent bored you till this WORD, please connect!
 
 
-## Skills: Python/SQL/ JS / HTML / CSS/Django
+## Skills: Java/NodeJS/Python/SQL/ JS / HTML / CSS/Django
 
 - 🔭 I’m currently working on Rest API ,MERN & Django
 - 🌱 I’m currently learning Optimizations.
 - 👯 I’m looking to collaborate on anything that pushes me off the edge 
 - 🤔 I’m looking for help with DSA
 - ⚡ Fun Love: Music, Movies <3 
+
+### Trying to work as hard as Elon , putting 100 hrs/week . Target - Even half of what he has acheived!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bhole-yash)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yash-bhole-075889148//)  
 
