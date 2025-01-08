@@ -5,7 +5,7 @@
 I'm from India , I was awarded the geekiest nerd in college(and I proud of that....) , I have done little bit of work in fullstack Development(literally everything in bits in parts) , but I am really confident of my python skills (well u just dont stop exploring world's coolest language) . Now if I havent bored you till this WORD, please connect!
 
 
-## Skills: Java/NodeJS/Python/SQL/ JS / HTML / CSS/Django
+## Skills: ReactJS/Javascript/NodeJS/Python/SQL/HTML/CSS
 
 - 🔭 I’m currently working on Rest API ,MERN & Django
 - 🌱 I’m currently learning Optimizations.
